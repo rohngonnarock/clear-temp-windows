@@ -2,7 +2,7 @@
 
 This code works on powershell.
 
-##In order to make executable powershell script we need to allow below persmission.
+In order to make executable powershell script we need to allow below persmission.
 ```
 Set-ExecutionPolicy RemoteSigned -scope CurrentUser
 ```
